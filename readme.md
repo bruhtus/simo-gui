@@ -1,6 +1,9 @@
 # Simo GUI
 
-Simo GUI is a GUI app that will show the state of [simo (simple pomodoro timer CLI)](https://github.com/bruhtus/simo) in a GUI window.
+Simo GUI is a complementary app for
+[simo (simple pomodoro timer CLI)](https://github.com/bruhtus/simo) to show
+the state in a GUI window. To use this, you need to have simo or at least a
+json file that use simo's format on your machine.
 
 ## Installation
 
